@@ -17,5 +17,5 @@ class Nau:
     def moure_avall(self):
         self.y-=self.v
         
-    def mostrar_nau(self):
+    def mostrar(self):
         print(f"[{self.x},{self.y}]")

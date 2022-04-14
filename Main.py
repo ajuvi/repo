@@ -15,7 +15,7 @@ def main():
 
     sortir=False
     while not sortir:
-        op = input('Entra una opció')
+        op = input('Entra una opció: ')
         if op=='d':
             nau.moure_dreta()
         elif op=='a':
