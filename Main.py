@@ -28,4 +28,6 @@ def main():
             sortir=True
             print("Has sortit de l'avió")
         
+        nau.mostrar()
+        
 main()

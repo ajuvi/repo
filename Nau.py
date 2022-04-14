@@ -18,5 +18,4 @@ class Nau:
         self.y-=self.v
         
     def mostrar_nau(self):
-        print(f"({self.x},{self.y})")
-
+        print(f"[{self.x},{self.y}]")
